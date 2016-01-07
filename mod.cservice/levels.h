@@ -50,7 +50,7 @@ namespace gnuworld {
   const int status = 1;
   const int force = 1; // And by definition, unforce.
   const int modinfo_autoinvite = 1;
-  
+
   const int voice = 25;
   const int devoice = 25;
 
@@ -98,6 +98,10 @@ namespace gnuworld {
 
   const int servnotice = 800;
   const int say = 800;
+  const int rename = 951;
+
+  const int nickset = 951;
+  const int newpass = 951;
 
   // Debug Commands
   const int shutdown = 900;
